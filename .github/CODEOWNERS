@@ -1,2 +1,3 @@
 /.github/CODEOWNERS @nielsmadan
 /.github/workflows/ @nielsmadan
+# Code-owner test; this PR is closed without merging.
